@@ -19,7 +19,7 @@ Rating: Poor but fun
 ## Log
 Challenging low tide morning at OB Pier. Short and mid period swell from the SW and NW created a heady mix with the negative 8am high tide. I decided to wait it out a bit and made my way to the beach at 8:30am instead of my usual dawn patrol. The conditions have been awful at dawn and somehow clean up just enough to get a surf in mid morning. 
 
-I pushed myself to bring the Seaside out and didn't hate is as much as I have in the past, though I'm convinced it's the wrong board for me. It is too corky and sits high in the water, which seems to collude with the lip of the way to pitch me over the falls. That doesn't seem to happen as much on the Disco Cheater, but fuck that board too. It may be too thin for me until I thin down a bit myself.
+I pushed myself to bring the Seaside out and didn't hate is as much as I have in the past, though I'm convinced it's the wrong board for me. It is too corky and sits high in the water, which seems to collude with the lip of the wave to pitch me over the falls. That doesn't seem to happen as much on the Disco Cheater, but fuck that board too. It may be too thin for me until I thin down a bit myself.
 
 Overall acceptable surf, with 3 rights worth writing home about. My pop up still needs to spread out along my front leg, but I'm getting somewhere with it. I've been thinking about the new Josh Hall Piseas I have being shaped, and I'm hoping that the shape will be more conducive to a longer board. It feels like the Seaside was shaped with a certain foot positioning and weight in mind, and I don't fit the bill.
 
