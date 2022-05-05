@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 3
 ---
 
-Aspiring space pirate, surfing redneck, and a walking oxymoron. 
+Aspiring space pirate, surfing redneck, and walking oxymoron. 
 
 No gods, no masters.
 
