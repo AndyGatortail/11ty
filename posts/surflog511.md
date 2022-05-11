@@ -19,6 +19,6 @@ Today was.... interesting, to quote the wise Doc Rennaker. Brady and Aubs joined
 
 The paddle out started easy- I was surprised by the amount of distance I was covering given the short period surf. I realized to my horror that the 3rd (or 4th or 5th) sandbar was breaking fairly hollow and very consistently. I got stuck in "the pit" for around 20 minutes. It was tough. Heart rate seems to have gone past 175 for several minutes. I saw the escape route, I just had to make it past the pier. Hell of a paddle out.
 
-After taking my rest for a bit, I saw a nice shelfy 5-6 footer coming my way. I turned, paddled hard, and was in with 4 strokes. I shifted my feed to the right of the stringer and was screaming down the line. I saw the hollow face start to pull up and over, and if I wasn't such a pussy I would have gotten barreled. Aubs saw it from the beach and said the same thing. 
+After taking my rest for a bit, I saw a nice shelfy 5-6 footer coming my way. I turned, paddled hard, and was in with 4 strokes. I shifted my feet to the right of the stringer and was screaming down the line. I saw the hollow face start to pull up and over, and if I wasn't such a pussy I would have gotten barreled. Aubs saw it from the beach and said the same thing. 
 
 I caught a few more waves (surflie sessions says 9, it was probably more like 5) and decided that I (and my shoulders) had enough. One more good right brought me straight to the beach. Brady had fun, Aubs had fun, I had tough fun.
