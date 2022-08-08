@@ -1,3 +1,12 @@
+---
+title: Surf Log 6.7.22
+description: Surf Log 6.7.22
+date: 2022-06-07
+tags:
+  - surflog
+layout: layouts/post.njk
+---
+
 ## Conditions
 Break: PB Reed Street  
 Board: Finny
