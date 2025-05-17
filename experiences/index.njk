@@ -1,0 +1,24 @@
+---
+layout: layouts/base.njk
+title: Experiences
+eleventyNavigation:
+  key: Experiences
+  order: 4
+---
+
+<style data-style-override>
+#experience{width:100%;height:80vh;display:block}
+#controls{position:fixed;bottom:20px;width:100%;text-align:center;z-index:2}
+#controls button{margin:0 10px;font-size:1.5em;padding:0.3em 0.6em}
+#narration{position:fixed;top:10px;left:0;right:0;text-align:center;color:#0ff;font-size:1.2em;font-family:sans-serif;z-index:2;text-shadow:0 0 5px #000}
+</style>
+<div id="experience"></div>
+<div id="narration"></div>
+<div id="controls">
+  <button id="btn-left" aria-label="Left">&larr;</button>
+  <button id="btn-forward" aria-label="Forward">&uarr;</button>
+  <button id="btn-back" aria-label="Back">&darr;</button>
+  <button id="btn-right" aria-label="Right">&rarr;</button>
+</div>
+<script src="https://unpkg.com/three@0.150.1/build/three.min.js"></script>
+<script src="/js/experience.js"></script>
